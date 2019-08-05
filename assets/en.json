@@ -1,1 +1,655 @@
-{"personalInfo":{"sectionTitle":"","photo":{"source":"/assets/img/me.jpg"},"name":"Francisco Legido","birthDate":"17/10/1981","location":"Madrid, Spain","phone":"667 984 250","email":"GOPHLB@hotmail.com"},"networkInfo":{"sectionTitle":"Webs","networkLinks":[{"name":"blog","url":"http://elmapacheprogramador.blogspot.com.es/","cssClass":"fab fa-blogger-b"},{"name":"git","url":"https://github.com/gophlb","cssClass":"fab fa-git"},{"name":"twitter","url":"https://twitter.com/GophLB","cssClass":"fab fa-twitter"},{"name":"linkedin","url":"https://www.linkedin.com/in/franciscolegido","cssClass":"fab fa-linkedin"}]},"educationInfo":{"sectionTitle":"Education","educations":[{"what":"Computer Engineering","where":"University of Valladolid"},{"what":"Introduction to React with Typescript, React Native and Vue","where":"In company (by Cle Formación)"},{"what":"Developing ASP.NET MVC 4 web applications","where":"Microsoft Virtual Academy"},{"what":"Web API design","where":"Microsoft Virtual Academy"},{"what":"Redis","where":"Microsoft Virtual Academy"},{"what":"MEAN stack","where":"Microsoft Virtual Academy"}]},"professionalExperienceInfo":{"sectionTitle":"Professional experience","professionalExperiences":[{"position":".NET developer","company":"Net4Things","fromWhen":"01/2019","toWhen":"Present","details":{"projectsInfo":{"sectionTitle":"Projects","intro":"","projects":[{"description":"Data export process for BI usage."},{"description":"Data import process for user creation."},{"description":"Bug fixing, development of new functionalities."}]},"rolesInfo":{"sectionTitle":"Roles","roles":[{"description":"Development.","subroles":[]}]},"skillsInfo":{"sectionTitle":"Technology","mainSkills":["C#","SQL","Maria DB","Visual Studio 2017","Git"],"otherSkills":[]}}},{"position":".NET developer","company":"Solutio","fromWhen":"09/2018","toWhen":"11/2018","details":{"projectsInfo":{"sectionTitle":"Projects","intro":"","projects":[{"description":"Completing the development of an application for student and teacher managemente for Institución Educativa SEK."}]},"rolesInfo":{"sectionTitle":"Roles","roles":[{"description":"Development.","subroles":[]}]},"skillsInfo":{"sectionTitle":"Technology","mainSkills":["C#","ASP.NET Core","Entity Framework","Linq","SQL","Azure webjobs","SQL Server","Visual Studio 2017","Git"],"otherSkills":[]}}},{"position":"Lead .NET developer + Project manager","company":"eldiario.es","fromWhen":"07/2017","toWhen":"07/2018","details":{"projectsInfo":{"sectionTitle":"Projects","intro":"","projects":[{"description":"Development of a CRM."}]},"rolesInfo":{"sectionTitle":"Roles","roles":[{"description":"Development.","subroles":[]},{"description":"Project manager.","subroles":[{"description":"Taking decisions about architecture and development."},{"description":"Management of the tasks for both the front and back teams."},{"description":"Demos, planification, reporting to the stakeholders."}]}]},"skillsInfo":{"sectionTitle":"Technology","mainSkills":["C#","ASP.NET Core Web API","Entity Framework Core","Dapper","Linq","SQL","XUnit + NSubstitute","Azure webjobs","Azure functions","SQL Server","Visual Studio 2017","Git"],"otherSkills":[]}}},{"position":".NET developer","company":"eldiario.es","fromWhen":"09/2016","toWhen":"06/2017","details":{"projectsInfo":{"sectionTitle":"Projects","intro":"","projects":[{"description":"Development of a CRM."}]},"rolesInfo":{"sectionTitle":"Roles","roles":[{"description":"Development.","subroles":[]},{"description":"Support for the project manager.","subroles":[{"description":"First definition of the database and architecture of the application."},{"description":"Management of the tasks assigned to the backend team."}]}]},"skillsInfo":{"sectionTitle":"Technology","mainSkills":["C#","ASP.NET Core Web API","Entity Framework Core","Dapper","Linq","SQL","XUnit + NSubstitute","Azure webjobs","Azure functions","SQL Server","Visual Studio 2017","Git"],"otherSkills":[]}}},{"position":".NET developer","company":"Miss Tipsi","fromWhen":"03/2016","toWhen":"08/2016","details":{"projectsInfo":{"sectionTitle":"Projects","intro":"","projects":[{"description":"Miss Tipsi, a POS (point of sale) system with a management module."},{"description":"Real time module. A messaging system to update (almost in) real time the cloud database with the locals' data."},{"description":"Web dashboard to monitor and interact with the state of the real time module. Apart from monitoring can inspect, recover or delete the deadlettered messages."},{"description":"Webapi for the integration of a mobile payment method."}]},"rolesInfo":{"sectionTitle":"Roles","roles":[{"description":"Development.","subroles":[]}]},"skillsInfo":{"sectionTitle":"Technology","mainSkills":["C#","ASP.NET Web API","Entity Framework","Dapper","Linq","SQL","Unity","Rhino Mocks","NUnit","Windows services","Azure topics / subscriptions","Azure webjobs","SQL Server","Visual Studio","Team Foundation Server (TFS)"],"otherSkills":["Bootstrap","AngularJs","HTML5 + CSS3"]}}},{"position":".NET developer","company":"Dooflow","fromWhen":"10/2014","toWhen":"06/2015","details":{"projectsInfo":{"sectionTitle":"Projects","intro":"","projects":[{"description":"SemMiner, a tool that analyses the competition and efficiency of marketing campaigns."},{"description":"Tools for internal use. ie: web directory, a dashboard to monitor the state of SemMiner."}]},"rolesInfo":{"sectionTitle":"Roles","roles":[{"description":"Analysis and design.","subroles":[]},{"description":"Development and layout.","subroles":[]}]},"skillsInfo":{"sectionTitle":"Technology","mainSkills":["C# + VB.NET","ASP.NET MVC","Entity Framework","Linq","SQL","Telerik KendoUI","Bootstrap","JQuery + Javascript","Ajax + JSON","HTML5 + CSS3","SQL Server","Visual Studio","Team Foundation Server (TFS)"],"otherSkills":[]}}},{"position":"Java + .NET developer","company":"Intelygenz","fromWhen":"09/2009","toWhen":"09/2014","details":{"projectsInfo":{"sectionTitle":"Projects","intro":"Short and long-term project for various sectors and clients. The most remarkable:","projects":[{"description":"Financial sector: Flash desktop, SWOT and dashboard tools (BBVA), intranet, extranet, document management system (BSCH and Ahorro Corporación)."},{"description":"Real estate: Tool for online valuations (iValoraciones)."},{"description":"Automotive industry: Support, development and migration (from Access to Oracle) of a sales application (BMW MotoPS), extension of a car configurator (SsangYong)."},{"description":"Tourist sector: Flash application using google maps for tourist routes (Tricanarias)."}]},"rolesInfo":{"sectionTitle":"Roles","roles":[{"description":"Both backend and frontend development.","subroles":[]},{"description":"Dealing with the client.","subroles":[]},{"description":"Development of a C# + Javascript framework as an extension of the company's framework, optimized for the BBVA's projects.","subroles":[]},{"description":"Modification of HighCharts.js to adapt it to the needs of the project.","subroles":[]},{"description":"Analysis and estimation.","subroles":[]},{"description":"Casual substitution of the Project Owner and support for the Team Leader in management and organization tasks.","subroles":[]},{"description":"Mentor of multiple new employees.","subroles":[]},{"description":"Jump start training on the BBVA framework reused in another project.","subroles":[]},{"description":"C# training for the team.","subroles":[]},{"description":"Pair-programming and code improvement sessions.","subroles":[]}]},"skillsInfo":{"sectionTitle":"Technology","mainSkills":["C#","Linq","SQL","JQuery + Javascript","Ajax + JSON","HTML + CSS","Bootstrap","Visual Studio","SQL Server","Tortoise SVN","iTextSharp"],"otherSkills":["Java","MySQL","Oracle","Sharp Develop","Intelli J","IIS","Tomcat","ActionScript 3","Visual Basic 6","Flash Develop","Google Maps + Street View APIs","Jasper Reports + iReport","nutch","Asana","Trello","Redmine","Pivotal Tracker","Windows + Unix","Scrum + XP"]}}},{"position":"Internship + Java developer","company":"ALS - Optimyth","fromWhen":"10/2007","toWhen":"01/2009","details":{"projectsInfo":{"sectionTitle":"Projects","intro":"","projects":[{"description":"ChecKing, a web dashboard based on internal and open source third party tools that analyses applications and source code and obtains data about unit tests, load tests and the compliance of some best practices associated with the language."},{"description":"QaKing, the stand alone version dedicated exclusively to the compliance of the best practices. "},{"description":"DevKing, an Eclipse / WASD plugin version of QaKing."}]},"rolesInfo":{"sectionTitle":"Roles","roles":[{"description":"Creation of complete packs of static analysis for multiple languages (ie: Cobol, SQL, Abap, JCL, Natural...)","subroles":[{"description":"Create or improve the grammar for the given language, as a base for the parser."},{"description":"Compilation of best practices for the language."},{"description":"Create rules that check those best practices."},{"description":"Weekly reports of performance and efficiency of the analysis process."}]},{"description":"Development, extension, testing and support of ChecKing, QaKing and DevKing.","subroles":[]},{"description":"Analysis of user stories.","subroles":[]}]},"skillsInfo":{"sectionTitle":"Technology","mainSkills":["Java","JavaCC","JUnit","Ant","Eclipse","CVS","Jira","Confluence","SOLID","Design patterns"],"otherSkills":["SQL","MySQL","SQL Server","Oracle","Spring","MyBatis","Groovy","Java Swing","XML","Javascript","Ajax + JSON","HTML + CSS","Tomcat","Windows + Unix","Scrum + XP"]}}},{"position":"Freelance Java","company":"SEIO","fromWhen":"06/2007","toWhen":"09/2007","details":{"projectsInfo":{"sectionTitle":"Projects","intro":"Development of a CD application for the attendees of the SEIO Congress 2007 with a search tool for the documents of the conferences.","projects":[]},"rolesInfo":{"sectionTitle":"Roles","roles":[{"description":"Dealing with the client.","subroles":[]},{"description":"Requirement elicitation.","subroles":[]},{"description":"Design and development.","subroles":[]},{"description":"Partial modification of JPedal source code (current iText).","subroles":[]}]},"skillsInfo":{"sectionTitle":"Technology","mainSkills":["Java","Java Swing","SQL","Javascript","HTML + CSS","Eclipse","HSqlDb","JPedal"],"otherSkills":[]}}}]},"skillsInfo":{"sectionTitle":"Skills","mainSkills":["C#",".NET Core","ASP.NET Core Web API","Entity Framework Core","Azure webjobs","Azure functions","XUnit + NSubstitute","Linq","SQL","SQL Server","Visual Studio 2017","Team Foundation Server (TFS)","Design patterns","SOLID"],"otherSkills":["Dapper","Automapper","Git","iTextSharp","Scrum + XP"]},"languagesInfo":{"sectionTitle":"Languages","languages":["Spanish, native.","English, both spoken and written, high."]}}
+{
+    "personalInfo": {
+        "sectionTitle": "",
+        "photo": {
+            "source": "/assets/img/me.jpg"
+        },
+        "name": "Francisco Legido",
+        "birthDate": "17/10/1981",
+        "location": "Madrid, Spain",
+        "phone": "667 984 250",
+        "email": "GOPHLB@hotmail.com"
+    },
+    "networkInfo": {
+        "sectionTitle": "Webs",
+        "networkLinks": [
+            {
+                "name": "blog",
+                "url": "http://elmapacheprogramador.blogspot.com.es/",
+                "cssClass": "fab fa-blogger-b"
+            },
+            {
+                "name": "git",
+                "url": "https://github.com/gophlb",
+                "cssClass": "fab fa-git"
+            },
+            {
+                "name": "twitter",
+                "url": "https://twitter.com/GophLB",
+                "cssClass": "fab fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/franciscolegido",
+                "cssClass": "fab fa-linkedin"
+            }
+        ]
+    },
+    "educationInfo": {
+        "sectionTitle": "Education",
+        "educations": [
+            {
+                "what": "Computer Engineering",
+                "where": "University of Valladolid"
+            },
+            {
+                "what": "Introduction to React with Typescript, React Native and Vue",
+                "where": "In company (by Cle Formación)"
+            },
+            {
+                "what": "Developing ASP.NET MVC 4 web applications",
+                "where": "Microsoft Virtual Academy"
+            },
+            {
+                "what": "Web API design",
+                "where": "Microsoft Virtual Academy"
+            },
+            {
+                "what": "Redis",
+                "where": "Microsoft Virtual Academy"
+            },
+            {
+                "what": "MEAN stack",
+                "where": "Microsoft Virtual Academy"
+            }
+        ]
+    },
+    "professionalExperienceInfo": {
+        "sectionTitle": "Professional experience",
+        "professionalExperiences": [
+            {
+                "position": ".NET developer",
+                "company": "Net4Things",
+                "fromWhen": "01/2019",
+                "toWhen": "05/2019",
+                "details": {
+                    "projectsInfo": {
+                        "sectionTitle": "Projects",
+                        "intro": "",
+                        "projects": [
+                            {
+                                "description": "Data export process for BI usage."
+                            },
+                            {
+                                "description": "Data import process for user creation."
+                            },
+                            {
+                                "description": "Bug fixing, development of new functionalities."
+                            }
+                        ]
+                    },
+                    "rolesInfo": {
+                        "sectionTitle": "Roles",
+                        "roles": [
+                            {
+                                "description": "Development.",
+                                "subroles": []
+                            }
+                        ]
+                    },
+                    "skillsInfo": {
+                        "sectionTitle": "Technology",
+                        "mainSkills": [
+                            "C#",
+                            "SQL",
+                            "Maria DB",
+                            "Visual Studio 2017",
+                            "Git"
+                        ],
+                        "otherSkills": []
+                    }
+                }
+            },
+            {
+                "position": ".NET developer",
+                "company": "Solutio",
+                "fromWhen": "09/2018",
+                "toWhen": "11/2018",
+                "details": {
+                    "projectsInfo": {
+                        "sectionTitle": "Projects",
+                        "intro": "",
+                        "projects": [
+                            {
+                                "description": "Completing the development of an application for student and teacher managemente for Institución Educativa SEK."
+                            }
+                        ]
+                    },
+                    "rolesInfo": {
+                        "sectionTitle": "Roles",
+                        "roles": [
+                            {
+                                "description": "Development.",
+                                "subroles": []
+                            }
+                        ]
+                    },
+                    "skillsInfo": {
+                        "sectionTitle": "Technology",
+                        "mainSkills": [
+                            "C#",
+                            "ASP.NET Core",
+                            "Entity Framework",
+                            "Linq",
+                            "SQL",
+                            "Azure webjobs",
+                            "SQL Server",
+                            "Visual Studio 2017",
+                            "Git"
+                        ],
+                        "otherSkills": []
+                    }
+                }
+            },
+            {
+                "position": "Lead .NET developer + Project manager",
+                "company": "eldiario.es",
+                "fromWhen": "07/2017",
+                "toWhen": "07/2018",
+                "details": {
+                    "projectsInfo": {
+                        "sectionTitle": "Projects",
+                        "intro": "",
+                        "projects": [
+                            {
+                                "description": "Development of a CRM."
+                            }
+                        ]
+                    },
+                    "rolesInfo": {
+                        "sectionTitle": "Roles",
+                        "roles": [
+                            {
+                                "description": "Development.",
+                                "subroles": []
+                            },
+                            {
+                                "description": "Project manager.",
+                                "subroles": [
+                                    {
+                                        "description": "Taking decisions about architecture and development."
+                                    },
+                                    {
+                                        "description": "Management of the tasks for both the front and back teams."
+                                    },
+                                    {
+                                        "description": "Demos, planification, reporting to the stakeholders."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "skillsInfo": {
+                        "sectionTitle": "Technology",
+                        "mainSkills": [
+                            "C#",
+                            "ASP.NET Core Web API",
+                            "Entity Framework Core",
+                            "Dapper",
+                            "Linq",
+                            "SQL",
+                            "XUnit + NSubstitute",
+                            "Azure webjobs",
+                            "Azure functions",
+                            "SQL Server",
+                            "Visual Studio 2017",
+                            "Git"
+                        ],
+                        "otherSkills": []
+                    }
+                }
+            },
+            {
+                "position": ".NET developer",
+                "company": "eldiario.es",
+                "fromWhen": "09/2016",
+                "toWhen": "06/2017",
+                "details": {
+                    "projectsInfo": {
+                        "sectionTitle": "Projects",
+                        "intro": "",
+                        "projects": [
+                            {
+                                "description": "Development of a CRM."
+                            }
+                        ]
+                    },
+                    "rolesInfo": {
+                        "sectionTitle": "Roles",
+                        "roles": [
+                            {
+                                "description": "Development.",
+                                "subroles": []
+                            },
+                            {
+                                "description": "Support for the project manager.",
+                                "subroles": [
+                                    {
+                                        "description": "First definition of the database and architecture of the application."
+                                    },
+                                    {
+                                        "description": "Management of the tasks assigned to the backend team."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "skillsInfo": {
+                        "sectionTitle": "Technology",
+                        "mainSkills": [
+                            "C#",
+                            "ASP.NET Core Web API",
+                            "Entity Framework Core",
+                            "Dapper",
+                            "Linq",
+                            "SQL",
+                            "XUnit + NSubstitute",
+                            "Azure webjobs",
+                            "Azure functions",
+                            "SQL Server",
+                            "Visual Studio 2017",
+                            "Git"
+                        ],
+                        "otherSkills": []
+                    }
+                }
+            },
+            {
+                "position": ".NET developer",
+                "company": "Miss Tipsi",
+                "fromWhen": "03/2016",
+                "toWhen": "08/2016",
+                "details": {
+                    "projectsInfo": {
+                        "sectionTitle": "Projects",
+                        "intro": "",
+                        "projects": [
+                            {
+                                "description": "Miss Tipsi, a POS (point of sale) system with a management module."
+                            },
+                            {
+                                "description": "Real time module. A messaging system to update (almost in) real time the cloud database with the locals' data."
+                            },
+                            {
+                                "description": "Web dashboard to monitor and interact with the state of the real time module. Apart from monitoring can inspect, recover or delete the deadlettered messages."
+                            },
+                            {
+                                "description": "Webapi for the integration of a mobile payment method."
+                            }
+                        ]
+                    },
+                    "rolesInfo": {
+                        "sectionTitle": "Roles",
+                        "roles": [
+                            {
+                                "description": "Development.",
+                                "subroles": []
+                            }
+                        ]
+                    },
+                    "skillsInfo": {
+                        "sectionTitle": "Technology",
+                        "mainSkills": [
+                            "C#",
+                            "ASP.NET Web API",
+                            "Entity Framework",
+                            "Dapper",
+                            "Linq",
+                            "SQL",
+                            "Unity",
+                            "Rhino Mocks",
+                            "NUnit",
+                            "Windows services",
+                            "Azure topics / subscriptions",
+                            "Azure webjobs",
+                            "SQL Server",
+                            "Visual Studio",
+                            "Team Foundation Server (TFS)"
+                        ],
+                        "otherSkills": [
+                            "Bootstrap",
+                            "AngularJs",
+                            "HTML5 + CSS3"
+                        ]
+                    }
+                }
+            },
+            {
+                "position": ".NET developer",
+                "company": "Dooflow",
+                "fromWhen": "10/2014",
+                "toWhen": "06/2015",
+                "details": {
+                    "projectsInfo": {
+                        "sectionTitle": "Projects",
+                        "intro": "",
+                        "projects": [
+                            {
+                                "description": "SemMiner, a tool that analyses the competition and efficiency of marketing campaigns."
+                            },
+                            {
+                                "description": "Tools for internal use. ie: web directory, a dashboard to monitor the state of SemMiner."
+                            }
+                        ]
+                    },
+                    "rolesInfo": {
+                        "sectionTitle": "Roles",
+                        "roles": [
+                            {
+                                "description": "Analysis and design.",
+                                "subroles": []
+                            },
+                            {
+                                "description": "Development and layout.",
+                                "subroles": []
+                            }
+                        ]
+                    },
+                    "skillsInfo": {
+                        "sectionTitle": "Technology",
+                        "mainSkills": [
+                            "C# + VB.NET",
+                            "ASP.NET MVC",
+                            "Entity Framework",
+                            "Linq",
+                            "SQL",
+                            "Telerik KendoUI",
+                            "Bootstrap",
+                            "JQuery + Javascript",
+                            "Ajax + JSON",
+                            "HTML5 + CSS3",
+                            "SQL Server",
+                            "Visual Studio",
+                            "Team Foundation Server (TFS)"
+                        ],
+                        "otherSkills": []
+                    }
+                }
+            },
+            {
+                "position": "Java + .NET developer",
+                "company": "Intelygenz",
+                "fromWhen": "09/2009",
+                "toWhen": "09/2014",
+                "details": {
+                    "projectsInfo": {
+                        "sectionTitle": "Projects",
+                        "intro": "Short and long-term project for various sectors and clients. The most remarkable:",
+                        "projects": [
+                            {
+                                "description": "Financial sector: Flash desktop, SWOT and dashboard tools (BBVA), intranet, extranet, document management system (BSCH and Ahorro Corporación)."
+                            },
+                            {
+                                "description": "Real estate: Tool for online valuations (iValoraciones)."
+                            },
+                            {
+                                "description": "Automotive industry: Support, development and migration (from Access to Oracle) of a sales application (BMW MotoPS), extension of a car configurator (SsangYong)."
+                            },
+                            {
+                                "description": "Tourist sector: Flash application using google maps for tourist routes (Tricanarias)."
+                            }
+                        ]
+                    },
+                    "rolesInfo": {
+                        "sectionTitle": "Roles",
+                        "roles": [
+                            {
+                                "description": "Both backend and frontend development.",
+                                "subroles": []
+                            },
+                            {
+                                "description": "Dealing with the client.",
+                                "subroles": []
+                            },
+                            {
+                                "description": "Development of a C# + Javascript framework as an extension of the company's framework, optimized for the BBVA's projects.",
+                                "subroles": []
+                            },
+                            {
+                                "description": "Modification of HighCharts.js to adapt it to the needs of the project.",
+                                "subroles": []
+                            },
+                            {
+                                "description": "Analysis and estimation.",
+                                "subroles": []
+                            },
+                            {
+                                "description": "Casual substitution of the Project Owner and support for the Team Leader in management and organization tasks.",
+                                "subroles": []
+                            },
+                            {
+                                "description": "Mentor of multiple new employees.",
+                                "subroles": []
+                            },
+                            {
+                                "description": "Jump start training on the BBVA framework reused in another project.",
+                                "subroles": []
+                            },
+                            {
+                                "description": "C# training for the team.",
+                                "subroles": []
+                            },
+                            {
+                                "description": "Pair-programming and code improvement sessions.",
+                                "subroles": []
+                            }
+                        ]
+                    },
+                    "skillsInfo": {
+                        "sectionTitle": "Technology",
+                        "mainSkills": [
+                            "C#",
+                            "Linq",
+                            "SQL",
+                            "JQuery + Javascript",
+                            "Ajax + JSON",
+                            "HTML + CSS",
+                            "Bootstrap",
+                            "Visual Studio",
+                            "SQL Server",
+                            "Tortoise SVN",
+                            "iTextSharp"
+                        ],
+                        "otherSkills": [
+                            "Java",
+                            "MySQL",
+                            "Oracle",
+                            "Sharp Develop",
+                            "Intelli J",
+                            "IIS",
+                            "Tomcat",
+                            "ActionScript 3",
+                            "Visual Basic 6",
+                            "Flash Develop",
+                            "Google Maps + Street View APIs",
+                            "Jasper Reports + iReport",
+                            "nutch",
+                            "Asana",
+                            "Trello",
+                            "Redmine",
+                            "Pivotal Tracker",
+                            "Windows + Unix",
+                            "Scrum + XP"
+                        ]
+                    }
+                }
+            },
+            {
+                "position": "Internship + Java developer",
+                "company": "ALS - Optimyth",
+                "fromWhen": "10/2007",
+                "toWhen": "01/2009",
+                "details": {
+                    "projectsInfo": {
+                        "sectionTitle": "Projects",
+                        "intro": "",
+                        "projects": [
+                            {
+                                "description": "ChecKing, a web dashboard based on internal and open source third party tools that analyses applications and source code and obtains data about unit tests, load tests and the compliance of some best practices associated with the language."
+                            },
+                            {
+                                "description": "QaKing, the stand alone version dedicated exclusively to the compliance of the best practices. "
+                            },
+                            {
+                                "description": "DevKing, an Eclipse / WASD plugin version of QaKing."
+                            }
+                        ]
+                    },
+                    "rolesInfo": {
+                        "sectionTitle": "Roles",
+                        "roles": [
+                            {
+                                "description": "Creation of complete packs of static analysis for multiple languages (ie: Cobol, SQL, Abap, JCL, Natural...)",
+                                "subroles": [
+                                    {
+                                        "description": "Create or improve the grammar for the given language, as a base for the parser."
+                                    },
+                                    {
+                                        "description": "Compilation of best practices for the language."
+                                    },
+                                    {
+                                        "description": "Create rules that check those best practices."
+                                    },
+                                    {
+                                        "description": "Weekly reports of performance and efficiency of the analysis process."
+                                    }
+                                ]
+                            },
+                            {
+                                "description": "Development, extension, testing and support of ChecKing, QaKing and DevKing.",
+                                "subroles": []
+                            },
+                            {
+                                "description": "Analysis of user stories.",
+                                "subroles": []
+                            }
+                        ]
+                    },
+                    "skillsInfo": {
+                        "sectionTitle": "Technology",
+                        "mainSkills": [
+                            "Java",
+                            "JavaCC",
+                            "JUnit",
+                            "Ant",
+                            "Eclipse",
+                            "CVS",
+                            "Jira",
+                            "Confluence",
+                            "SOLID",
+                            "Design patterns"
+                        ],
+                        "otherSkills": [
+                            "SQL",
+                            "MySQL",
+                            "SQL Server",
+                            "Oracle",
+                            "Spring",
+                            "MyBatis",
+                            "Groovy",
+                            "Java Swing",
+                            "XML",
+                            "Javascript",
+                            "Ajax + JSON",
+                            "HTML + CSS",
+                            "Tomcat",
+                            "Windows + Unix",
+                            "Scrum + XP"
+                        ]
+                    }
+                }
+            },
+            {
+                "position": "Freelance Java",
+                "company": "SEIO",
+                "fromWhen": "06/2007",
+                "toWhen": "09/2007",
+                "details": {
+                    "projectsInfo": {
+                        "sectionTitle": "Projects",
+                        "intro": "Development of a CD application for the attendees of the SEIO Congress 2007 with a search tool for the documents of the conferences.",
+                        "projects": []
+                    },
+                    "rolesInfo": {
+                        "sectionTitle": "Roles",
+                        "roles": [
+                            {
+                                "description": "Dealing with the client.",
+                                "subroles": []
+                            },
+                            {
+                                "description": "Requirement elicitation.",
+                                "subroles": []
+                            },
+                            {
+                                "description": "Design and development.",
+                                "subroles": []
+                            },
+                            {
+                                "description": "Partial modification of JPedal source code (current iText).",
+                                "subroles": []
+                            }
+                        ]
+                    },
+                    "skillsInfo": {
+                        "sectionTitle": "Technology",
+                        "mainSkills": [
+                            "Java",
+                            "Java Swing",
+                            "SQL",
+                            "Javascript",
+                            "HTML + CSS",
+                            "Eclipse",
+                            "HSqlDb",
+                            "JPedal"
+                        ],
+                        "otherSkills": []
+                    }
+                }
+            }
+        ]
+    },
+    "skillsInfo": {
+        "sectionTitle": "Skills",
+        "mainSkills": [
+            "C#",
+            ".NET Core",
+            "ASP.NET Core Web API",
+            "Entity Framework Core",
+            "Azure webjobs",
+            "Azure functions",
+            "XUnit + NSubstitute",
+            "Linq",
+            "SQL",
+            "SQL Server",
+            "Visual Studio 2017",
+            "Team Foundation Server (TFS)",
+            "Design patterns",
+            "SOLID"
+        ],
+        "otherSkills": [
+            "Dapper",
+            "Automapper",
+            "Git",
+            "iTextSharp",
+            "Scrum + XP"
+        ]
+    },
+    "languagesInfo": {
+        "sectionTitle": "Languages",
+        "languages": [
+            "Spanish, native.",
+            "English, both spoken and written, high."
+        ]
+    }
+}
