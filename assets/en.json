@@ -32,6 +32,11 @@
                 "name": "linkedin",
                 "url": "https://www.linkedin.com/in/franciscolegido",
                 "cssClass": "fab fa-linkedin"
+            },
+            {
+                "name": "portfolio",
+                "url": "https://gophlbportfolio.github.io/index/",
+                "cssClass": "fa fa-briefcase"
             }
         ]
     },
