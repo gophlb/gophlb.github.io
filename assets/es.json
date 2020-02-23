@@ -73,6 +73,46 @@
         "sectionTitle": "Experiencia",
         "professionalExperiences": [
             {
+                "position": "Desarrollador .NET core",
+                "company": "Nuo Energy",
+                "fromWhen": "12/2019",
+                "toWhen": "Actualidad",
+                "details": {
+                    "projectsInfo": {
+                        "sectionTitle": "Proyectos",
+                        "intro": "",
+                        "projects": [
+                            {
+                                "description": "Desarrollo de nuevas funcionalidades de un cuadro de mandos para la gestión de centrales de energías renovables."
+                            }
+                        ]
+                    },
+                    "rolesInfo": {
+                        "sectionTitle": "Funciones",
+                        "roles": [
+                            {
+                                "description": "Desarrollo.",
+                                "subroles": []
+                            }
+                        ]
+                    },
+                    "skillsInfo": {
+                        "sectionTitle": "Tecnología",
+                        "mainSkills": [
+                            "C#",
+                            ".net core",
+                            "SQL",
+                            "Visual Studio 2019",
+                            "Git"
+                        ],
+                        "otherSkills": [
+                        	"Azure Devops",
+                        	"Scrum"
+                        ]
+                    }
+                }
+            },
+            {
                 "position": "Desarrollador .NET",
                 "company": "Net4Things",
                 "fromWhen": "01/2019",
@@ -83,10 +123,13 @@
                         "intro": "",
                         "projects": [
                             {
-                                "description": "Proceso de exportación de datos para explotación en BI."
+                                "description": "Proceso de exportación de datos para posterior explotación en BI de cliente."
                             },
                             {
-                                "description": "Proceso de importación de datos de alta de usuarios."
+                                "description": "Proceso de importación de datos (de procesos batch de cliente) de alta de usuarios."
+                            },
+                            {
+                                "description": "Integración con apis de terceros (Here maps, Movistar, MásMóvil, ...)"
                             },
                             {
                                 "description": "Corrección de bugs y desarrollo de nuevas funcionalidades."

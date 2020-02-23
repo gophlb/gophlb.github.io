@@ -74,6 +74,46 @@
         "professionalExperiences": [
             {
                 "position": ".NET developer",
+                "company": "Nuo Energy",
+                "fromWhen": "12/2019",
+                "toWhen": "Present",
+                "details": {
+                    "projectsInfo": {
+                        "sectionTitle": "Projects",
+                        "intro": "",
+                        "projects": [
+                            {
+                                "description": "Development of new functionalities in the dashboard for renewable energy companies."
+                            }
+                        ]
+                    },
+                    "rolesInfo": {
+                        "sectionTitle": "Roles",
+                        "roles": [
+                            {
+                                "description": "Development.",
+                                "subroles": []
+                            }
+                        ]
+                    },
+                    "skillsInfo": {
+                        "sectionTitle": "Technology",
+                        "mainSkills": [
+                            "C#",
+                            ".net core",
+                            "SQL",
+                            "Visual Studio 2019",
+                            "Git"
+                        ],
+                        "otherSkills": [
+                        	"Azure Devops",
+                        	"Scrum"
+                        ]
+                    }
+                }
+            },
+            {
+                "position": ".NET developer",
                 "company": "Net4Things",
                 "fromWhen": "01/2019",
                 "toWhen": "05/2019",
@@ -83,10 +123,13 @@
                         "intro": "",
                         "projects": [
                             {
-                                "description": "Data export process for BI usage."
+                                "description": "Data export process for later client's BI exploitation."
                             },
                             {
-                                "description": "Data import process for user creation."
+                                "description": "Data import process (from client's batches) for user creation."
+                            },
+                            {
+                                "description": "Thrid party apis integration (Here maps, Movistar, MásMóvil, ...)."
                             },
                             {
                                 "description": "Bug fixing, development of new functionalities."
