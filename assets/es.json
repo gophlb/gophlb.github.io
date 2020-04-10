@@ -101,6 +101,7 @@
                         "mainSkills": [
                             "C#",
                             ".net core",
+                            "NHibernate",
                             "SQL",
                             "Visual Studio 2019",
                             "Git"
@@ -126,7 +127,7 @@
                                 "description": "Proceso de exportación de datos para posterior explotación en BI de cliente."
                             },
                             {
-                                "description": "Proceso de importación de datos (de procesos batch de cliente) de alta de usuarios."
+                                "description": "Proceso de importación de datos (de procesos batch de cliente) de alta de usuarios en nuestra plataforma."
                             },
                             {
                                 "description": "Integración con apis de terceros (Here maps, Movistar, MásMóvil, ...)"
@@ -162,7 +163,7 @@
                 "position": "Desarrollador .NET",
                 "company": "Solutio",
                 "fromWhen": "09/2018",
-                "toWhen": "11/2018",
+                "toWhen": "12/2018",
                 "details": {
                     "projectsInfo": {
                         "sectionTitle": "Proyectos",
@@ -193,7 +194,8 @@
                             "Azure webjobs",
                             "SQL Server",
                             "Visual Studio 2017",
-                            "Git"
+                            "Git",
+                            "Microservicios"
                         ],
                         "otherSkills": []
                     }
@@ -203,7 +205,7 @@
                 "position": "Desarrollador lead .NET + Project manager",
                 "company": "eldiario.es",
                 "fromWhen": "07/2017",
-                "toWhen": "07/2018",
+                "toWhen": "08/2018",
                 "details": {
                     "projectsInfo": {
                         "sectionTitle": "Proyectos",
@@ -376,7 +378,7 @@
                 "position": "Desarrollador .NET",
                 "company": "Dooflow",
                 "fromWhen": "10/2014",
-                "toWhen": "06/2015",
+                "toWhen": "07/2015",
                 "details": {
                     "projectsInfo": {
                         "sectionTitle": "Proyectos",
@@ -428,7 +430,7 @@
                 "position": "Desarrollador Java + .NET",
                 "company": "Intelygenz",
                 "fromWhen": "09/2009",
-                "toWhen": "09/2014",
+                "toWhen": "10/2014",
                 "details": {
                     "projectsInfo": {
                         "sectionTitle": "Proyectos",
@@ -536,7 +538,7 @@
                 "position": "Prácticas + Desarrollador Java",
                 "company": "ALS - Optimyth",
                 "fromWhen": "10/2007",
-                "toWhen": "01/2009",
+                "toWhen": "02/2009",
                 "details": {
                     "projectsInfo": {
                         "sectionTitle": "Proyectos",
@@ -697,7 +699,7 @@
         "sectionTitle": "Idiomas",
         "languages": [
             "Castellano, nativo.",
-            "Inglés hablado y escrito, nivel alto."
+            "Inglés hablado y escrito, nivel medio-alto."
         ]
     }
 }

@@ -83,7 +83,7 @@
                         "intro": "",
                         "projects": [
                             {
-                                "description": "Development of new functionalities in the dashboard for renewable energy companies."
+                                "description": "Development of new functionalities in the management dashboard for renewable energy companies."
                             }
                         ]
                     },
@@ -101,6 +101,7 @@
                         "mainSkills": [
                             "C#",
                             ".net core",
+                            "NHibernate",
                             "SQL",
                             "Visual Studio 2019",
                             "Git"
@@ -126,7 +127,7 @@
                                 "description": "Data export process for later client's BI exploitation."
                             },
                             {
-                                "description": "Data import process (from client's batches) for user creation."
+                                "description": "Data import process (from client's batches) for user creation in our own database."
                             },
                             {
                                 "description": "Thrid party apis integration (Here maps, Movistar, MásMóvil, ...)."
@@ -162,14 +163,14 @@
                 "position": ".NET developer",
                 "company": "Solutio",
                 "fromWhen": "09/2018",
-                "toWhen": "11/2018",
+                "toWhen": "12/2018",
                 "details": {
                     "projectsInfo": {
                         "sectionTitle": "Projects",
                         "intro": "",
                         "projects": [
                             {
-                                "description": "Completing the development of an application for student and teacher managemente for Institución Educativa SEK."
+                                "description": "Completing the development of an application for student and teacher management for Institución Educativa SEK."
                             }
                         ]
                     },
@@ -188,12 +189,13 @@
                             "C#",
                             "ASP.NET Core",
                             "Entity Framework",
-                            "Linq",
+                            "Linq",                            
                             "SQL",
                             "Azure webjobs",
                             "SQL Server",
                             "Visual Studio 2017",
-                            "Git"
+                            "Git",
+                            "Microservices"
                         ],
                         "otherSkills": []
                     }
@@ -203,7 +205,7 @@
                 "position": "Lead .NET developer + Project manager",
                 "company": "eldiario.es",
                 "fromWhen": "07/2017",
-                "toWhen": "07/2018",
+                "toWhen": "08/2018",
                 "details": {
                     "projectsInfo": {
                         "sectionTitle": "Projects",
@@ -376,7 +378,7 @@
                 "position": ".NET developer",
                 "company": "Dooflow",
                 "fromWhen": "10/2014",
-                "toWhen": "06/2015",
+                "toWhen": "07/2015",
                 "details": {
                     "projectsInfo": {
                         "sectionTitle": "Projects",
@@ -428,7 +430,7 @@
                 "position": "Java + .NET developer",
                 "company": "Intelygenz",
                 "fromWhen": "09/2009",
-                "toWhen": "09/2014",
+                "toWhen": "10/2014",
                 "details": {
                     "projectsInfo": {
                         "sectionTitle": "Projects",
@@ -536,7 +538,7 @@
                 "position": "Internship + Java developer",
                 "company": "ALS - Optimyth",
                 "fromWhen": "10/2007",
-                "toWhen": "01/2009",
+                "toWhen": "02/2009",
                 "details": {
                     "projectsInfo": {
                         "sectionTitle": "Projects",
@@ -697,7 +699,7 @@
         "sectionTitle": "Languages",
         "languages": [
             "Spanish, native.",
-            "English, both spoken and written, high."
+            "English, both spoken and written, medium-high."
         ]
     }
 }
