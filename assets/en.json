@@ -52,20 +52,8 @@
                 "where": "In company (by Cle Formación)"
             },
             {
-                "what": "Developing ASP.NET MVC 4 web applications",
-                "where": "Microsoft Virtual Academy"
-            },
-            {
-                "what": "Web API design",
-                "where": "Microsoft Virtual Academy"
-            },
-            {
-                "what": "Redis",
-                "where": "Microsoft Virtual Academy"
-            },
-            {
-                "what": "MEAN stack",
-                "where": "Microsoft Virtual Academy"
+                "what": "Preparation for MCSA",
+                "where": "In company"
             }
         ]
     },
@@ -83,7 +71,7 @@
                         "intro": "",
                         "projects": [
                             {
-                                "description": "Development of new functionalities in the management dashboard for renewable energy facilities."
+                                "description": "Development of new functionalities in the management dashboard for renewable energy plants."
                             }
                         ]
                     },
