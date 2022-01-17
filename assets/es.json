@@ -77,10 +77,10 @@
                                 "description": "Migración del monolito a microservicios."
                             },
                             {
-                                "description": "Creación de un 'framework' (basado en nugets) para la adaptación del código a microservicios."
+                                "description": "Desarrollo de un 'framework' (basado en nugets) para la adaptación del código a microservicios."
                             },
                             {
-                                "description": "Aplicación para la gestión / actualización de nugets."
+                                "description": "Desarrollo de una aplicación para la gestión / actualización de nugets."
                             }
                         ]
                     },
