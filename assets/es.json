@@ -72,6 +72,15 @@
                         "projects": [
                             {
                                 "description": "Desarrollo de nuevas funcionalidades de un cuadro de mandos para la gestión de plantas de energía renovable."
+                            },
+                            {
+                                "description": "Migración del monolito a microservicios."
+                            },
+                            {
+                                "description": "Creación de un 'framework' (basado en nugets) para la adaptación del código a microservicios."
+                            },
+                            {
+                                "description": "Aplicación para la gestión / actualización de nugets."
                             }
                         ]
                     },
@@ -92,7 +101,12 @@
                             "NHibernate",
                             "SQL",
                             "Visual Studio 2019",
-                            "Git"
+                            "Git",
+                            "Dapper",
+                            "Rabbit MQ",
+                            "Serilog",
+                            "Redis",
+                            "Keycloak"
                         ],
                         "otherSkills": [
                         	"Azure Devops",

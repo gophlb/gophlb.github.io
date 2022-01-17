@@ -73,6 +73,15 @@
                             {
                                 "description": "Development of new functionalities in the management dashboard for renewable energy plants."
                             }
+                            {                                
+                                "description": "Migration of the monolith to microservices."
+                            },
+                            {
+                                "description": "Creation of a 'framework' (based on nugets) for the microservices code adaption."
+                            },
+                            {
+                                "description": "Application for management / update of nugets."
+                            }
                         ]
                     },
                     "rolesInfo": {
@@ -92,7 +101,12 @@
                             "NHibernate",
                             "SQL",
                             "Visual Studio 2019",
-                            "Git"
+                            "Git",
+                            "Dapper",
+                            "Rabbit MQ",
+                            "Serilog",
+                            "Redis",
+                            "Keycloak"
                         ],
                         "otherSkills": [
                         	"Azure Devops",
