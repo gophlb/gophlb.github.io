@@ -72,7 +72,7 @@
                         "projects": [
                             {
                                 "description": "Development of new functionalities in the management dashboard for renewable energy plants."
-                            }
+                            },
                             {                                
                                 "description": "Migration of the monolith to microservices."
                             },
