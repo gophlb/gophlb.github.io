@@ -8,25 +8,15 @@
         "birthDate": "17/10/1981",
         "location": "Madrid, Spain",
         "phone": "",
-        "email": "GOPHLB@hotmail.com"
+        "email": ""
     },
     "networkInfo": {
         "sectionTitle": "Webs",
         "networkLinks": [
             {
-                "name": "blog",
-                "url": "http://elmapacheprogramador.blogspot.com.es/",
-                "cssClass": "fab fa-blogger-b"
-            },
-            {
                 "name": "git",
                 "url": "https://github.com/gophlb",
                 "cssClass": "fab fa-git"
-            },
-            {
-                "name": "twitter",
-                "url": "https://twitter.com/GophLB",
-                "cssClass": "fab fa-twitter"
             },
             {
                 "name": "linkedin",
@@ -37,23 +27,6 @@
                 "name": "portfolio",
                 "url": "https://gophlbportfolio.github.io/index/",
                 "cssClass": "fa fa-briefcase"
-            }
-        ]
-    },
-    "educationInfo": {
-        "sectionTitle": "Education",
-        "educations": [
-            {
-                "what": "Computer Engineering",
-                "where": "University of Valladolid"
-            },
-            {
-                "what": "Introduction to React with Typescript, React Native and Vue",
-                "where": "In company (by Cle Formación)"
-            },
-            {
-                "what": "Preparation for MCSA",
-                "where": "In company"
             }
         ]
     },
@@ -669,32 +642,6 @@
                     }
                 }
             }
-        ]
-    },
-    "skillsInfo": {
-        "sectionTitle": "Skills",
-        "mainSkills": [
-            "C#",
-            ".NET Core",
-            "ASP.NET Core Web API",
-            "Entity Framework Core",
-            "Azure webjobs",
-            "Azure functions",
-            "XUnit + NSubstitute",
-            "Linq",
-            "SQL",
-            "SQL Server",
-            "Visual Studio 2017",
-            "Team Foundation Server (TFS)",
-            "Design patterns",
-            "SOLID"
-        ],
-        "otherSkills": [
-            "Dapper",
-            "Automapper",
-            "Git",
-            "iTextSharp",
-            "Scrum + XP"
         ]
     },
     "languagesInfo": {
