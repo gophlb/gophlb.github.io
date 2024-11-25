@@ -72,8 +72,9 @@
                             "C#",
                             ".net core",
                             "NHibernate",
+                            "Entity framework",
                             "SQL",
-                            "Visual Studio 2019",
+                            "Visual Studio",
                             "Git",
                             "Dapper",
                             "Rabbit MQ",
@@ -99,7 +100,7 @@
                         "intro": "",
                         "projects": [
                             {
-                                "description": "Data export process for later client's BI exploitation."
+                                "description": "Data export process for later client's BI utilization."
                             },
                             {
                                 "description": "Data import process (from client's batches) for user creation in our own database."
@@ -127,7 +128,7 @@
                             "C#",
                             "SQL",
                             "Maria DB",
-                            "Visual Studio 2017",
+                            "Visual Studio",
                             "Git"
                         ],
                         "otherSkills": []
@@ -168,7 +169,7 @@
                             "SQL",
                             "Azure webjobs",
                             "SQL Server",
-                            "Visual Studio 2017",
+                            "Visual Studio",
                             "Git",
                             "Microservices"
                         ],
@@ -227,7 +228,7 @@
                             "Azure webjobs",
                             "Azure functions",
                             "SQL Server",
-                            "Visual Studio 2017",
+                            "Visual Studio",
                             "Git"
                         ],
                         "otherSkills": []
@@ -282,7 +283,7 @@
                             "Azure webjobs",
                             "Azure functions",
                             "SQL Server",
-                            "Visual Studio 2017",
+                            "Visual Studio",
                             "Git"
                         ],
                         "otherSkills": []
